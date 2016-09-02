@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Serveur: localhost
--- Généré le : Ven 24 Juin 2011 à 08:10
+-- GÃ©nÃ©rÃ© le : Ven 24 Juin 2011 Ã  08:10
 -- Version du serveur: 6.0.0
 -- Version de PHP: 5.2.9-2
 
@@ -16,7 +16,7 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Base de données: `dspdb`
+-- Base de donnÃ©es: `dspdb`
 --
 
 -- --------------------------------------------------------
@@ -76,32 +76,41 @@ INSERT INTO `exp_table` VALUES (-2, 80, 80, 80, 80, 80, 80, 86, 86, 90, 90, 93, 
 INSERT INTO `exp_table` VALUES (-3, 70, 70, 75, 75, 75, 75, 75, 80, 86, 86, 88, 88, 91, 91, 92, 92, 92, 92, 93, 93);
 INSERT INTO `exp_table` VALUES (-4, 65, 65, 70, 70, 70, 70, 72, 76, 80, 80, 82, 84, 86, 86, 90, 90, 90, 90, 90, 90);
 INSERT INTO `exp_table` VALUES (-5, 60, 60, 65, 65, 65, 65, 68, 72, 76, 76, 78, 80, 83, 83, 86, 86, 86, 86, 87, 87);
-INSERT INTO `exp_table` VALUES (-6, 50, 50, 60, 60, 60, 60, 65, 70, 72, 72, 74, 76, 80, 80, 83, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-7, 0, 40, 50, 50, 55, 55, 60, 65, 68, 68, 70, 72, 76, 77, 80, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-8, 0, 30, 40, 40, 50, 50, 55, 60, 65, 65, 68, 68, 73, 75, 77, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-9, 0, 0, 30, 30, 40, 40, 50, 55, 60, 60, 65, 65, 70, 72, 75, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-10, 0, 0, 0, 0, 30, 30, 40, 50, 55, 56, 60, 62, 66, 70, 73, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-11, 0, 0, 0, 0, 0, 0, 30, 40, 50, 53, 56, 58, 63, 66, 70, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-12, 0, 0, 0, 0, 0, 0, 0, 30, 40, 50, 53, 56, 60, 63, 66, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-13, 0, 0, 0, 0, 0, 0, 0, 0, 30, 40, 50, 53, 56, 60, 63, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 40, 50, 53, 56, 60, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 40, 50, 53, 56, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 40, 50, 53, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 40, 50, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 40, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-INSERT INTO `exp_table` VALUES (-34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `exp_table` VALUES (-6, 50, 50, 60, 60, 60, 60, 65, 70, 72, 72, 74, 76, 80, 80, 83, 83, 83, 83, 83, 83);
+INSERT INTO `exp_table` VALUES (-7, 0, 40, 50, 50, 55, 55, 60, 65, 68, 68, 70, 72, 76, 77, 80, 80, 80, 80, 80, 80);
+INSERT INTO `exp_table` VALUES (-8, 0, 30, 40, 40, 50, 50, 55, 60, 65, 65, 68, 68, 73, 75, 77, 77, 77, 77, 77, 77);
+INSERT INTO `exp_table` VALUES (-9, 0, 0, 30, 30, 40, 40, 50, 55, 60, 60, 65, 65, 70, 72, 75, 75, 75, 75, 75, 75);
+INSERT INTO `exp_table` VALUES (-10, 0, 0, 0, 0, 30, 30, 40, 50, 55, 56, 60, 62, 66, 70, 73, 73, 73, 73, 73, 73);
+INSERT INTO `exp_table` VALUES (-11, 0, 0, 0, 0, 0, 0, 30, 40, 50, 53, 56, 58, 63, 66, 70, 70, 70, 70, 70, 70);
+INSERT INTO `exp_table` VALUES (-12, 0, 0, 0, 0, 0, 0, 0, 30, 40, 50, 53, 56, 60, 63, 66, 66, 66, 66, 66, 66);
+INSERT INTO `exp_table` VALUES (-13, 0, 0, 0, 0, 0, 0, 0, 0, 30, 40, 50, 53, 56, 60, 63, 63, 63, 63, 63, 63);
+INSERT INTO `exp_table` VALUES (-14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 40, 50, 53, 56, 60, 60, 60, 60, 60, 60);
+INSERT INTO `exp_table` VALUES (-15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 40, 50, 53, 56, 56, 56, 56, 56, 56);
+INSERT INTO `exp_table` VALUES (-16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 40, 50, 53, 53, 53, 53, 53, 53);
+INSERT INTO `exp_table` VALUES (-17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 40, 50, 50, 50, 50, 50, 50);
+INSERT INTO `exp_table` VALUES (-18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 40, 40, 40, 40, 40, 40);
+INSERT INTO `exp_table` VALUES (-19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30, 30, 30, 30);
+INSERT INTO `exp_table` VALUES (-20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 28, 28, 28, 28);
+INSERT INTO `exp_table` VALUES (-21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 26, 26, 26, 26);
+INSERT INTO `exp_table` VALUES (-22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 25, 25, 25, 25);
+INSERT INTO `exp_table` VALUES (-23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 24, 24, 24, 24);
+INSERT INTO `exp_table` VALUES (-24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 23, 23, 23, 23);
+INSERT INTO `exp_table` VALUES (-25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 22, 22, 22);
+INSERT INTO `exp_table` VALUES (-26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 21, 21, 21);
+INSERT INTO `exp_table` VALUES (-27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 20, 20, 20);
+INSERT INTO `exp_table` VALUES (-28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 19);
+INSERT INTO `exp_table` VALUES (-29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 18, 18);
+INSERT INTO `exp_table` VALUES (-30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17);
+INSERT INTO `exp_table` VALUES (-31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16);
+INSERT INTO `exp_table` VALUES (-32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15, 15);
+INSERT INTO `exp_table` VALUES (-33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 14);
+INSERT INTO `exp_table` VALUES (-34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13);
+INSERT INTO `exp_table` VALUES (-35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12);
+INSERT INTO `exp_table` VALUES (-36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 11);
+INSERT INTO `exp_table` VALUES (-37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10);
+INSERT INTO `exp_table` VALUES (-38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 9);
+INSERT INTO `exp_table` VALUES (-39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8);
+INSERT INTO `exp_table` VALUES (-40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7);
+INSERT INTO `exp_table` VALUES (-41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6);
+INSERT INTO `exp_table` VALUES (-42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5);
+INSERT INTO `exp_table` VALUES (-43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4);
