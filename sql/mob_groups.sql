@@ -44,30 +44,30 @@ CREATE TABLE `mob_groups` (
 
 LOCK TABLES `mob_groups` WRITE;
 /*!40000 ALTER TABLE `mob_groups` DISABLE KEYS */;
-INSERT INTO `mob_groups` VALUES (1,69,1,0,128,40,0,0,34,36,0);
-INSERT INTO `mob_groups` VALUES (2,417,1,0,128,299,0,0,20,24,0);
-INSERT INTO `mob_groups` VALUES (3,1347,1,0,128,961,0,0,25,27,0);
-INSERT INTO `mob_groups` VALUES (4,1375,1,0,128,982,0,0,15,25,0);
-INSERT INTO `mob_groups` VALUES (5,1535,1,0,128,1132,0,0,10,20,0);
-INSERT INTO `mob_groups` VALUES (6,2987,1,0,128,2549,0,0,25,29,0);
-INSERT INTO `mob_groups` VALUES (7,3048,1,0,128,0,0,0,32,32,0);
-INSERT INTO `mob_groups` VALUES (8,3211,1,0,128,2833,0,0,29,31,0);
-INSERT INTO `mob_groups` VALUES (9,3682,1,0,128,3245,0,0,15,19,0);
-INSERT INTO `mob_groups` VALUES (10,3796,1,0,128,3388,0,0,37,38,0);
-INSERT INTO `mob_groups` VALUES (11,3896,1,0,128,3459,0,0,10,20,0);
-INSERT INTO `mob_groups` VALUES (12,3912,1,0,128,3481,0,0,27,29,0);
-INSERT INTO `mob_groups` VALUES (13,4242,1,0,128,4020,0,0,45,45,0);
-INSERT INTO `mob_groups` VALUES (14,4309,1,0,128,4087,0,0,27,29,0);
-INSERT INTO `mob_groups` VALUES (15,371,2,330,0,260,0,0,23,27,0);
-INSERT INTO `mob_groups` VALUES (16,382,2,330,0,268,0,0,15,18,0);
-INSERT INTO `mob_groups` VALUES (17,421,2,330,0,302,0,0,29,33,0);
-INSERT INTO `mob_groups` VALUES (18,575,2,330,2,426,0,0,15,20,0);
-INSERT INTO `mob_groups` VALUES (19,576,2,0,128,0,0,0,40,40,0);
-INSERT INTO `mob_groups` VALUES (20,743,2,0,128,538,0,0,20,24,0);
-INSERT INTO `mob_groups` VALUES (21,847,2,0,128,0,4500,0,73,73,0);
-INSERT INTO `mob_groups` VALUES (22,851,2,0,128,0,5000,0,75,75,0);
-INSERT INTO `mob_groups` VALUES (23,1036,2,330,0,731,0,0,14,17,0);
-INSERT INTO `mob_groups` VALUES (24,1065,2,330,0,755,0,0,27,30,0);
+INSERT INTO `mob_groups` VALUES (1,69,1,0,128,40,0,0,34,36,0); --Aipaloovik
+INSERT INTO `mob_groups` VALUES (2,417,1,0,128,299,0,0,20,24,0); --Big Jaw
+INSERT INTO `mob_groups` VALUES (3,1347,1,0,128,961,0,0,25,27,0); --Fishtrap
+INSERT INTO `mob_groups` VALUES (4,1375,1,0,128,982,0,0,15,25,0); --Flytrap
+INSERT INTO `mob_groups` VALUES (5,1535,1,0,128,1132,0,0,10,20,0); --Giant Pugil
+INSERT INTO `mob_groups` VALUES (6,2987,1,0,128,2549,0,0,25,29,0); --Ooze
+INSERT INTO `mob_groups` VALUES (7,3048,1,0,128,0,0,0,32,32,0); --Orc's Wyvern
+INSERT INTO `mob_groups` VALUES (8,3211,1,0,128,2833,0,0,29,31,0); --Protozoan
+INSERT INTO `mob_groups` VALUES (9,3682,1,0,128,3245,0,0,15,19,0); --Snipper
+INSERT INTO `mob_groups` VALUES (10,3796,1,0,128,3388,0,0,37,38,0); --Stubborn Dredvodd
+INSERT INTO `mob_groups` VALUES (11,3896,1,0,128,3459,0,0,10,20,0); --Thickshell
+INSERT INTO `mob_groups` VALUES (12,3912,1,0,128,3481,0,0,27,29,0); --Thunder Elemental
+INSERT INTO `mob_groups` VALUES (13,4242,1,0,128,4020,0,0,45,45,0); --Vodyanoi
+INSERT INTO `mob_groups` VALUES (14,4309,1,0,128,4087,0,0,27,29,0); --Water Elemental
+INSERT INTO `mob_groups` VALUES (15,371,2,300,0,260,0,0,23,27,0); --Battrap
+INSERT INTO `mob_groups` VALUES (16,382,2,300,0,268,0,0,15,18,0); --Beady Beetle
+INSERT INTO `mob_groups` VALUES (17,421,2,300,0,302,0,0,29,33,0); --Birdtrap
+INSERT INTO `mob_groups` VALUES (18,575,2,300,2,426,0,0,15,20,0); --Bulldog Bats
+INSERT INTO `mob_groups` VALUES (19,576,2,0,128,0,0,0,40,40,0); --Bullheaded Grosvez
+INSERT INTO `mob_groups` VALUES (20,743,2,0,128,538,0,0,20,24,0); --Clipper
+INSERT INTO `mob_groups` VALUES (21,847,2,0,128,0,4500,0,73,73,0); --Cryptonberry Assassin
+INSERT INTO `mob_groups` VALUES (22,851,2,0,128,0,5000,0,75,75,0); --Cryptonberry Executor
+INSERT INTO `mob_groups` VALUES (23,1036,2,300,0,731,0,0,14,17,0); --Digger Wasp
+INSERT INTO `mob_groups` VALUES (24,1065,2,300,0,755,0,0,27,30,0); --Diving Beetle
 INSERT INTO `mob_groups` VALUES (25,1347,2,0,128,961,0,0,25,27,0);
 INSERT INTO `mob_groups` VALUES (26,1375,2,330,0,982,0,0,18,22,0);
 INSERT INTO `mob_groups` VALUES (27,1406,2,330,0,1033,0,0,22,25,0);
